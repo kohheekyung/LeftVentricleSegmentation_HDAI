@@ -1,7 +1,8 @@
 # H.D.A.I 2021 [Win the excellence awards!]
 Left ventricle segmentation in A2C/A4C view
-![prize](./Figures/prize.JPG)
-
+#![prize](./Figures/prize.JPG)
+<img width="350" src="./Figures/prize.JPG">
+#</p>
 
 ### ResNet CNN
 ![model](./Figures/model.png)
