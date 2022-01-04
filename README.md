@@ -14,12 +14,11 @@ Output - Left ventricle Label map
 Loss - DICE & Jaccard & Boundary 
 
 ### Evaluation result
-<!-- [result1](./Figures/result1.png)  -->
+<!-- [result1](./Figures/result1.png) -->
 <img width="600" src="./Figures/result1.png">
 
-<!-- [result2](./Figures/result2.png)  -->
-
-<img width="600" src="./Figures/result2.png">
+<!--[result2](./Figures/result2.png)-->
+<img width="600" src="./Figures/result2.PNG">
 
 ### Configuration using Anaconda
 ```python
