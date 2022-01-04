@@ -16,7 +16,9 @@ Loss - DICE & Jaccard & Boundary
 ### Evaluation result
 <!-- [result1](./Figures/result1.png)  -->
 <img width="600" src="./Figures/result1.png">
+
 <!-- [result2](./Figures/result2.png)  -->
+
 <img width="600" src="./Figures/result2.png">
 
 ### Configuration using Anaconda
