@@ -1,8 +1,8 @@
 # H.D.A.I 2021 [Won the excellence awards!]
-Left ventricle segmentation in A2C/A4C view
+Left ventricle segmentation in A2C/A4C view <a href="https://youtu.be/tBeAXEoELEw">Full Video</a>
 
 <p> <img src="./Figures/presentation.gif" width="350"/> <img width="140" src="./Figures/prize.JPG"> </p>
-[Full video](https://www.youtube.com/watch?v=tBeAXEoELEw)
+
 
 ### ResNet CNN
 <!-- [model](./Figures/model.png) -->
