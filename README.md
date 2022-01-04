@@ -4,7 +4,8 @@ Left ventricle segmentation in A2C/A4C view
 <img width="350" src="./Figures/prize.JPG">
 
 ### ResNet CNN
-![model](./Figures/model.png)
+<!-- [model](./Figures/model.png) -->
+<img width="350" src="./Figures/model.png">
 
 Input - A2C or A4C
 
@@ -13,9 +14,10 @@ Output - Left ventricle Label map
 Loss - DICE & Jaccard & Boundary 
 
 ### Evaluation result
-![result1](./Figures/result1.png)
-![result2](./Figures/result2.png)
-
+<!-- ![result1](./Figures/result1.png)  -->
+<img width="350" src="./Figures/result1.png">
+<!-- ![result2](./Figures/result2.png)  -->
+<img width="350" src="./Figures/result2.png">
 ### Configuration using Anaconda
 ```python
 conda create -n tf python=3.7
