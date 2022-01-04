@@ -1,0 +1,3 @@
+#ignore datas
+Data/echocardiography/**/*.npy
+Data/echocardiography/**/*.png
