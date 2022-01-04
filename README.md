@@ -1,8 +1,7 @@
-# H.D.A.I 2021 [Win the excellence awards!]
+# H.D.A.I 2021 [Won the excellence awards!]
 Left ventricle segmentation in A2C/A4C view
-#![prize](./Figures/prize.JPG)
+
 <img width="350" src="./Figures/prize.JPG">
-#</p>
 
 ### ResNet CNN
 ![model](./Figures/model.png)
@@ -17,7 +16,7 @@ Loss - DICE & Jaccard & Boundary
 ![result1](./Figures/result1.png)
 ![result2](./Figures/result2.png)
 
-#### Configuration using Anaconda
+### Configuration using Anaconda
 ```python
 conda create -n tf python=3.7
 
@@ -32,9 +31,10 @@ pip install git+https://www.github.com/keras-team/keras-contrib.git
 pip install segmentation-models
 ```
 
-#### How to test 
+### How to test 
+```python
 python run_test.py 
-
+```
 Model weight location should be './Model/echocardiography/20211204-112646/models/model_1_epoch_360.hdf5'
 
 Generated files after execution
@@ -44,13 +44,15 @@ Generated files after execution
 - ./Data/echocardiography/evalutaionDSC.txt : Dice Similarity Coefficient of validation/test set
 - ./Data/echocardiography/evalutaionJAC.txt : Jaccard indext of validation/test set
 
-#### How to train
+### How to train
+```python
 python run_train.py
-
-#### How to retrain
+```
+### How to retrain
+```python
 python  run_retrain.py
-
-#### Data
+```
+### Data
 I don't have permission to share data due to security policy of HDAI 2021. 
 Please check with https://hdaidatathon.com/
 
